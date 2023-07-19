@@ -11,6 +11,7 @@ const theme = {
 const GlobalStyle = createGlobalStyle`
   :root {
     --primary: #ff6a00;
+    
   }
   * {
     
